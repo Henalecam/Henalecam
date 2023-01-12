@@ -28,4 +28,4 @@ I've never used github, and it's sad because i lost so many python projects, so 
 
 <p align='center'>
 ![Visitor Count](https://profile-counter.glitch.me/HenriqueTRK/count.svg)
-<\p>
+</p>
