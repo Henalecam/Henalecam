@@ -31,6 +31,5 @@ I've never used github, and it's sad because i lost so many python projects, so 
 ![Visitor Count](https://profile-counter.glitch.me/HenriqueTRK/count.svg)
 
 </br></br>
-
 <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="henriquetrk" data-version="v1"> Linkedin: <a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/henriquetrk?trk=profile-badge">Henrique Alexandre</a></div>
 
