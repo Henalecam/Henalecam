@@ -1,31 +1,35 @@
-✨ About Me
-My name is Henrique Alexandre de Camargo. I'm currently 19 years old, born and raised in a small town called Pitanga where I currently live. I have a brother who has always been a reference for me in programming. After many comings and goings, I finally decided to pursue a career in programming.
+<b>✨&nbsp;&nbsp;About&nbsp;Me</b>
+</br></br>
+My name is Henrique Alexandre de Camargo, I'm currently 19 years old, I was born in a country town "Pitanga" where I'm living now, I have a brother who has always been a reference for me in programming, and after many comings and goings I finally decided which career I want to follow;
 
-This repository is where I'll start being a little more "official" programmer. I was learning Python in 2020 and was a good competitive player at CodinGame. However, I stopped to focus on college.
+This is a repository just to finally start being a little more "official" programmer, I was learning python in 2020, a good competitive player at codingame... but I stopped just to start at my college;
 
-My city does not have a computer science program, and although I was accepted into four different universities, I couldn't attend any of them. I was discouraged to continue but now I want to recover everything I lost and get better.
+In my city it doesn't have computer science or another similar course, I was approved in 4 different universities, I was very happy, altough I can't study in another city, so I was discouraged to continue... and now I want to recover everything I lost and get better and better;
 
-At the time of writing this readme, I am learning JavaScript. I love artificial intelligence and machine learning, but for now, I want to work with full-stack web design and development.
+At the time of writing this readme, I am learning Javascript, I love artificial intelligence and machine learning, which will have to wait as I currently want to work with fullstack web design and development.
 
-I've never used GitHub, and it's sad because I lost so many Python projects. So, these will be my first steps in Git.
+I've never used github, and it's sad because i lost so many python projects, so now will be my first steps in git
 
-🛠️ Languages and Tools
+<b>🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools</b>
+</br></br>
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
 <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
-<img align="left" alt="PostgreSQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
-<img align="left" alt="GitHub" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" style="padding-right:10px;" />
-</br></br>
-
-:zap: GitHub Stats
-<img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=HenriqueTRK&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
-</br></br>
-
-Visitor Count
+<img align="left" alt="NodeJS" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Postgres" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Postgres" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Postgres" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" style="padding-right:10px;" />
 
 </br></br>
+<b>:zap:&nbsp;&nbsp; GitHub Stats</b>
+</br></br>
+  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=HenriqueTRK&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="henriquetrk"
+</br></br>
+
+![Visitor Count](https://profile-counter.glitch.me/HenriqueTRK/count.svg)
+
+</br></br>
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="henriquetrk" data-version="v1"> Linkedin: <a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/henriquetrk?trk=profile-badge">Henrique Alexandre</a></div>
+
