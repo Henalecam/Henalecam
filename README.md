@@ -1,6 +1,6 @@
 **✨&nbsp;&nbsp;About&nbsp;Me**
 
-My name is Henrique Alexandre de Camargo, I'm currently 19 years old, and I was born in a country town called Pitanga, where I currently live. I have a brother who has always been a reference for me in programming, and after many comings and goings, I finally decided which career I want to follow.
+My name is Henrique Alexandre, I'm currently 20 years old, and I was born in a country town called Pitanga, where I currently live. I have a brother who has always been a reference for me in programming, and after many comings and goings, I finally decided which career I want to follow.
 
 This is a repository just to finally start being a little more "official" programmer. I was learning Python in 2020 and was a good competitive player at CodinGame, but I stopped just to start college.
 
