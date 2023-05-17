@@ -4,11 +4,7 @@ My name is Henrique Alexandre, I'm currently 20 years old, and I was born in a c
 
 This is a repository just to finally start being a little more "official" programmer. I was learning Python in 2020 and was a good competitive player at CodinGame, but I stopped just to start college.
 
-My city doesn't have a computer science or any similar course, and although I was approved in four different universities, I couldn't study in another city, so I was discouraged to continue. Now, I want to recover everything I lost and get better and better.
-
-At the time of writing this readme, I am learning Javascript. I love artificial intelligence and machine learning, but they will have to wait as I currently want to work with full-stack web design and development.
-
-I've never used Github, and it's sad because I lost so many Python projects. Now, I'm taking my first steps in Git.
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henalecam&layout=compact&langs_count=16&theme=radical&hide=jupyter%20notebook"/>
 
 **🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools**
 
