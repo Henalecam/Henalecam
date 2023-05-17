@@ -18,5 +18,6 @@ This is a repository just to finally start being a little more "official" progra
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 
 **:zap:&nbsp;&nbsp; GitHub Stats**
-<img align="left" height=200em alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Henalecam&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
-<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henalecam&layout=compact&langs_count=16&theme=radical&hide=jupyter%20notebook"/>
+
+<img height ='200em' align=left src="https://github-readme-stats.vercel.app/api?username=henalecam&show_icons=true&theme=radical"/>
+<img height ='200em'  src="https://github-readme-stats.vercel.app/api/top-langs/?username=henalecam&layout=donut"/>
