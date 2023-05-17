@@ -3,7 +3,7 @@ My name is Henrique Alexandre, I'm currently 20 years old, and I was born in a c
 
 This is a repository just to finally start being a little more "official" programmer. I was learning Python in 2020 and was a good competitive player at CodinGame, but I stopped just to start college.
 
-![Visitor Count](https://profile-counter.glitch.me/Henalecam/count.svg)
+<img src="https://profile-counter.glitch.me/Henalecam/count.svg" />
 
 
 **🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools**
