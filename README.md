@@ -18,6 +18,4 @@ This is a repository just to finally start being a little more "official" progra
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 
 **:zap:&nbsp;&nbsp; GitHub Stats**
-
-<img height ='200em' align=left src="https://github-readme-stats.vercel.app/api?username=henalecam&show_icons=true&theme=radical"/>
 <img height ='200em'  src="https://github-readme-stats.vercel.app/api/top-langs/?username=henalecam&layout=donut"/>
