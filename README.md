@@ -55,7 +55,6 @@ Programming has been part of my life since I was young, inspired by my brother w
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Henalecam&show_icons=true&theme=transparent" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henalecam&layout=donut" height="180"/>
 </p>
 
