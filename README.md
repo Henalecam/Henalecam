@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Henrique Alexandre 👋</h1>
 
 <p align="center">
-Currently Fullstack Senior Developer at <strong>State of Paraná</strong> (PHP & MySQL). <br />
+Currently IA Specialist at <strong>Henaweb</strong> <br />
 I develop modern websites and scalable systems, also work with automation and software architecture. <br />
 Programming has been part of my life since I was young, inspired by my brother who introduced me to this world.
 </p>
