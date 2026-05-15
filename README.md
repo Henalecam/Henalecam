@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Henrique Alexandre 👋</h1>
 
 <p align="center">
-Currently IA Specialist at <strong>Henaweb</strong> <br />
+Currently IA Specialist and Owner at <strong>Henaweb</strong> <br />
 I develop modern websites and scalable systems, also work with automation and software architecture. <br />
 Programming has been part of my life since I was young, inspired by my brother who introduced me to this world.
 </p>
@@ -48,20 +48,4 @@ Programming has been part of my life since I was young, inspired by my brother w
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="40" alt="Redis"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" alt="AWS"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" alt="Firebase"/>
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henalecam&layout=donut" height="180"/>
-</p>
-
----
-
-## 📈 Visitors
-
-<p align="center">
-  <img src="https://profile-counter.glitch.me/Henalecam/count.svg" />
 </p>
